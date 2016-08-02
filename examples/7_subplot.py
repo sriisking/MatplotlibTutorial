@@ -1,4 +1,4 @@
-#Basic text and annotation example
+#Basic subplots example
 
 #Imports
 

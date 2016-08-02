@@ -1,4 +1,4 @@
-#Sample exercise - 1 Scatter plot with z axis shown as color
+#Sample exercise - 1. Scatter plot with z axis shown as color
 
 #Imports
 import pylab as plt
