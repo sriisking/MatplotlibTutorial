@@ -5,9 +5,9 @@ import pylab as plt
 import numpy as np
 
 #Data
-y1 = np.cos(np.linspace(0,4*np.pi,100))
-y2 = np.sin(np.linspace(0,4*np.pi,100))
 x = np.linspace(0,4*np.pi,100)
+y1 = np.cos(x)
+y2 = np.sin(x)
 
 #Plotting functions
 plt.plot(x,y1, label="Cosine", linewidth=3)
