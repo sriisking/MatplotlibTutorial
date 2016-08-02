@@ -1,6 +1,5 @@
 #Basic subplots example
 
-
 #Imports
 import pylab as plt
 import numpy as np

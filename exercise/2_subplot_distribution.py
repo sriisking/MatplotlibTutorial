@@ -1,5 +1,5 @@
 #Sample exercise - 2. Trace and allied distribution subplot
-#Solve after going through examples 1 to 7
+#Solve after going through examples 1 to
 
 #Imports
 import pylab as plt
